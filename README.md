@@ -132,19 +132,6 @@ nawrocki_top10_diff = dfmerged.nlargest(5, 'NAWROCKI_VS_DUDA_DIFF')[[
 ```
 ### Nawrocki — top 5
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -215,19 +202,6 @@ nawrocki_top10_diff = dfmerged.nlargest(5, 'NAWROCKI_VS_DUDA_DIFF')[[
 
 ### Nawrocki — bottom 5
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -298,19 +272,6 @@ nawrocki_top10_diff = dfmerged.nlargest(5, 'NAWROCKI_VS_DUDA_DIFF')[[
 
 ### Trzaskowski — top 5
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -381,19 +342,6 @@ nawrocki_top10_diff = dfmerged.nlargest(5, 'NAWROCKI_VS_DUDA_DIFF')[[
 
 ### Trzaskowski — bottom 5
 <div>
-<style scoped>
-    .dataframe tbody tr th:only-of-type {
-        vertical-align: middle;
-    }
-
-    .dataframe tbody tr th {
-        vertical-align: top;
-    }
-
-    .dataframe thead th {
-        text-align: right;
-    }
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
