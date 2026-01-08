@@ -418,7 +418,7 @@ This leads to interesting conclusions:
 
 - **Trzaskowski lost the most voters in the biggest cities including Warsaw.** This one is also surprising. TRZASKOWSKI, being the mayor of Warsaw, was expected to perform very well there as well as in other big cities where he is seen as the strongest opposition to NAWROCKI. One possible explanation of this fact is stronger differentiation amongst the voters which allowed the candidates other than the top 2 to gather significantly more votes. This way they might have "stolen" these votes from TRZASKOWSKI as we have just seen it happen to NAWROCKI.
 
-## Public libraries and voters' behaviour
+## 3. Public libraries and voters' behaviour
 
 Let us now move to a bit more specific comparisons and see if the voters' behaviour is somehow related to the number of readers in the public libraries. 📶
 
@@ -442,7 +442,7 @@ There is also another conlcusion: reading and actively voting are somehow relate
 
 ![frequence-libraries](/Pictures/Biblioteki%20Frekwencja.png)
 
-## Culture centres and their activity
+## 4. Culture centres and their activity
 
 In the next step I checked the relationship between the number of votes for a specific candidate and the activities of culture centres. 🎭
 
@@ -456,7 +456,7 @@ And here are all "main" candidates:
 
 ![Culture-comparison](/Pictures/Kultura%20razem.png)
 
-## And finally — trash bins!
+## 5. And finally — trash bins!
 
 Yes, trash bins! 🗑️
 
