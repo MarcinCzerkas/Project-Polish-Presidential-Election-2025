@@ -470,17 +470,17 @@ Actually, there is no correlation here! 😂
 
 # Conclusion
 
-To be honest, I did't expect to find so many interesting insights.
+To be honest, I didn't expect to find so many interesting insights.
 
 One final conclusion? 🤔
 
-A data analyst needs to be prepared for everything — even the greatest surprise. And, of course, they shoud never just try to prove their suppositions. Ever❗
+A data analyst needs to be prepared for everything — even the greatest surprise. And, of course, they shoud never just try to prove their suppositions.
 
 ### Who am I?
 
-I am Marcin Czerkas — a data analyst who hasn't paid a single coin for my analytical education and yet learns every day on my own, using free learning resources. 🎓
+I am Marcin Czerkas — a data analyst.
 
-I work with data since 2023. At that time I changed job and started helping my new team by automating the process and building dashboards. Currently, I work in the asset risk department and help my company not to lose money by spotting dangerous trends in the data early on. ⚡
+I work with data since 2023. At that time I changed job and started helping my new team by automating the process and building dashboards. Currently, I work as Quantitative Expert in the Risk department and help my company not to lose money by spotting dangerous trends in the data early on. ⚡
 
 When I transitioned into the world of data, I started a learning journey that lasts until now and is probably going to last for a long time. Projects like this one help me test my analytical skills in practice and showcase them.
 
