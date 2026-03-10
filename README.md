@@ -485,3 +485,5 @@ I work with data since 2023. At that time I changed job and started helping my n
 When I transitioned into the world of data, I started a learning journey that lasts until now and is probably going to last for a long time. Projects like this one help me test my analytical skills in practice and showcase them.
 
 ### 🔗 **Visit [my LinkedIn profile](https://www.linkedin.com/in/marcin-czerkas-95150727a/) to learn more.**
+
+![](https://komarev.com/ghpvc/?username=MarcinCzerkas&style=flat-square&label=VIEWS&style=pixel)
